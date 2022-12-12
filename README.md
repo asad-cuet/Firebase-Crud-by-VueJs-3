@@ -1,6 +1,10 @@
 # 2nd_json_crud
 
 ## Project setup
+
+https://asad-firebase-crud.web.app
+
+## Project setup
 ```
 npm install
 ```

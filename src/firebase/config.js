@@ -2,12 +2,12 @@ import firebase from 'firebase/compat/app'
 import 'firebase/compat/firestore'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCEcX358xVPs16zHg8HzgpnSV4RsNzqvZo",
-  authDomain: "st-project-807fd.firebaseapp.com",
-  projectId: "st-project-807fd",
-  storageBucket: "st-project-807fd.appspot.com",
-  messagingSenderId: "618323811160",
-  appId: "1:618323811160:web:8bdea4d5641d535752232d"
+  apiKey: "AIzaSyADPuzWZSH76PmXDFlTppPDmmYNbsoxFLo",
+  authDomain: "fir-crud-58cea.firebaseapp.com",
+  projectId: "fir-crud-58cea",
+  storageBucket: "fir-crud-58cea.appspot.com",
+  messagingSenderId: "80999418786",
+  appId: "1:80999418786:web:6732b43a5766c9345e40fb"
 };
 
 
